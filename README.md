@@ -1,1 +1,1 @@
-# Alpha_Store_DA_usingEXCEL
+In this project, we explore the process of data analysis using Excel. It covers a range of techniques, including data cleaning, transformation, visualization, and statistical analysis. By utilizing Excel's built-in functions and tools, we can uncover patterns, trends, and correlations within the provided datasets.
