@@ -42,4 +42,6 @@
 
 
    - Target ***women*** customer of the age group ***(30-49 years)*** living in ***Maharashtra, Karnatka and Uttar Pradesh*** by showing ***ads / coupons / offers etc*** available on ***Amazon, Flipkart and Myntra***.  
-  
+
+## _[Link to this project](https://github.com/Pranav6818/Alpha_Store_SalesAnalysis_Using_ExcelDashboarding/blob/main/Alpha%20Store%20Sales%20Dashboard.JPG)_
+
